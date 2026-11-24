@@ -1,0 +1,20 @@
+{
+  "name": "胃安 · TummyBuddy",
+  "short_name": "胃安",
+  "description": "胃部健康自测：30 秒先分清急、重、缓，再做就医方向参考。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F0E4",
+  "theme_color": "#2F5A4A",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
